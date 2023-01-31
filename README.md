@@ -1,5 +1,5 @@
 # Readme - Bot Sala de Sinal BacBo
-Este projeto é um script de automação utilizando o selenium e o telegram. O objetivo é buscar informações em uma página web, verificar se atendem a determinadas condições e enviar uma mensagem via telegram caso sejam atendidas.
+Este projeto é um script de automação utilizando o selenium e o telegram. O objetivo é enviar sinais para o grupo do Telegram quando alguma das estrategias adicionadas pelo usuário são válidas.
 
 ## Requisitos
 . Python 3.x
